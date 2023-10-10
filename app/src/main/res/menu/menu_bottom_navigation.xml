@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_item1"
+        android:title=""
+        android:icon="@drawable/garaje_de_vehiculos" />
+    <item
+        android:id="@+id/action_item2"
+        android:title=""
+        android:icon="@drawable/apreton_de_manos" />
+    <item
+        android:id="@+id/action_item3"
+        android:title=""
+        android:icon="@drawable/circulo_de_telefono" />
+    <item
+        android:id="@+id/action_item4"
+        android:title=""
+        android:icon="@drawable/dinero" />
+    <item
+        android:id="@+id/action_item5"
+        android:title=""
+        android:icon="@drawable/monedas" />
+</menu>
