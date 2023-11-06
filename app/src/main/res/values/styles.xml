@@ -4,4 +4,5 @@
         <item name="android:background">@color/greyf</item> <!-- Cambia el fondo aquí -->
         <item name="itemIconTint">@color/whetef</item> <!-- Establece un color de icono personalizado -->
     </style>
+
 </resources>

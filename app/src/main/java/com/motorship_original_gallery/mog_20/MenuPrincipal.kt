@@ -18,7 +18,6 @@ class MenuPrincipal : AppCompatActivity() {
             CustomAdapter.Item(R.drawable.apreton_de_manos, "@mario_16_", "Descripción 3")
             // Agrega más elementos si es necesario
         )
-
         val customAdapter = CustomAdapter(applicationContext, itemList)
         val listView = findViewById<ListView>(R.id.listviewPrincipal)
         listView.adapter = customAdapter

@@ -11,7 +11,6 @@ import android.widget.ImageView
 import android.widget.TextView
 import com.motorship_original_gallery.mog_20.MenuPrincipal
 import android.content.ClipData.Item
-
 class CustomAdapter(context: Context, private val itemList: List<Item>) : BaseAdapter() {
     data class Item(
         val imageResource: Int,

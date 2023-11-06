@@ -16,7 +16,6 @@
             android:adjustViewBounds="true"
 
             android:scaleType="centerCrop"/>
-
         <!-- Fila de texto -->
         <TextView
             android:id="@+id/textViewTitle"

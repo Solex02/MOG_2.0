@@ -30,7 +30,6 @@ class MainActivity : AppCompatActivity() {
             R.id.action_item2 -> intent = Intent(this, MenuPrincipal::class.java)
             R.id.action_item3 -> intent = Intent(this, MenuPrincipal::class.java)
             R.id.action_item4 -> intent = Intent(this, MenuPrincipal::class.java)
-
         }
 
         if (intent != null) {
