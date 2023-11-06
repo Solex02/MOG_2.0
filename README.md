@@ -29,7 +29,4 @@ Contribuir
 ¡Agradecemos las contribuciones! Si deseas contribuir al desarrollo de MOG, sigue estos pasos:
 
 
-## Contacto
-Para cualquier consulta o asistencia, no dudes en ponerte en contacto con el equipo de MOG en contacto@mogapp.com.
-
 ### ¡Esperamos que disfrutes usando MOG!
