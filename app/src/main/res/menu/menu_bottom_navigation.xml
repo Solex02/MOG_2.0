@@ -7,17 +7,14 @@
     <item
         android:id="@+id/action_item2"
         android:title=""
-        android:icon="@drawable/apreton_de_manos" />
+        android:icon="@drawable/_24254878_icono_de_monta_a_escalada_esquema_de_escalada_de_monta_a_icono_vectoriales_para_dise_o_web_aislado_transformed__1__removebg_preview" />
     <item
         android:id="@+id/action_item3"
         android:title=""
-        android:icon="@drawable/circulo_de_telefono" />
+        android:icon="@drawable/_000_f_222710429_adb0on8xluujlwewg1u6nxj1qt5e5oe6_transformed_removebg_preview" />
     <item
         android:id="@+id/action_item4"
         android:title=""
         android:icon="@drawable/dinero" />
-    <item
-        android:id="@+id/action_item5"
-        android:title=""
-        android:icon="@drawable/monedas" />
+
 </menu>

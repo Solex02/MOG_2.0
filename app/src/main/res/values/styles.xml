@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyBottomNavigationView" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="android:background">@color/greyf</item> <!-- Cambia el fondo aquí -->
+        <item name="itemIconTint">@color/whetef</item> <!-- Establece un color de icono personalizado -->
+    </style>
+</resources>
