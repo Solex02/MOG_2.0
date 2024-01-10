@@ -16,17 +16,4 @@ MOG es una aplicación de red social para entusiastas de los coches que permite 
 
 - Notificaciones: Los usuarios reciben notificaciones sobre actividad en sus fotos y perfiles.
 
-## Requisitos de desarrollo
-Android Studio 4.0 o superior
-Kotlin 1.3 o superior
-Gradle 6.3 o superior
-Configuración del proyecto
-Clona este repositorio en tu máquina local.
-Abre el proyecto en Android Studio.
-Conéctate a un emulador o dispositivo Android.
-Ejecuta la aplicación.
-Contribuir
-¡Agradecemos las contribuciones! Si deseas contribuir al desarrollo de MOG, sigue estos pasos:
-
-
 ### ¡Esperamos que disfrutes usando MOG!
