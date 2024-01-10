@@ -11,7 +11,7 @@
         android:layout_width="83dp"
         android:layout_height="77dp"
         android:layout_marginTop="32dp"
-        android:src="@drawable/profile_icon_login_head_icon_vector"
+        android:src="@drawable/garaje_de_vehiculos"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
